@@ -1,6 +1,7 @@
-print("Hello World");
-print("Hello everybody);
-print("hello everywhere")
-print(i like you)
-print(I am very glad to see you)
-print(How are you doing?)
+print("Hello World":)
+print("Hello everybody:)
+print("hello everywhere":)
+print(i like you:)
+print(I am very glad to see you:)
+print(How are you doing?:)
+
