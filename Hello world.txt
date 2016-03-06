@@ -1,4 +1,4 @@
-print("Hello World");
-print("Hello everybody);
-print("hello everywhere")
-print(i like you)
+print("Hello World":)
+print("Hello everybody:)
+print("hello everywhere":)
+print(i like you:)
